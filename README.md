@@ -1,13 +1,14 @@
-Pacotes:
+## Pacotes:
 
-Microsoft.EntityFrameworkCore,
-Microsoft.EntityFrameworkCore.Tools,
-Microsoft.EntityFrameworkCore.SqlServer,
+- Microsoft.EntityFrameworkCore,
+- Microsoft.EntityFrameworkCore.Tools,
+- Microsoft.EntityFrameworkCore.SqlServer,
 
-Comandos Console:
+## Comandos Console:
 
-Add-Migration initial
-Update-Database,
+- Add-Migration initial
+- Update-Database,
 
-Video:
-https://www.youtube.com/watch?v=gwfWJhzAsBA
+##Video:
+
+- https://www.youtube.com/watch?v=gwfWJhzAsBA
