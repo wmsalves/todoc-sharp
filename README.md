@@ -8,7 +8,3 @@
 
 - Add-Migration initial
 - Update-Database,
-
-## Video:
-
-- https://www.youtube.com/watch?v=gwfWJhzAsBA
